@@ -1,7 +1,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=0:3275fb,100:127337&height=120&text=Highsky%20World&animation=&fontColor=bfa23b&fontSize=50" />
     </div>
-    <div style="text-align: left;"> 
+    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi!!!!😊😊😊 💻Welcome to my world🗺 of RL and some Algorithms for Robotics🤖 and self driving🚗 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> The University Student in Korea who are studying about some Algorithms and RL about autonomous cars and robotics </div> 
     </div>
