@@ -2,9 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=slice&color=0:3275fb,100:127337&height=120&text=Highsky7's%20Space&animation=&fontColor=bfa23b&fontSize=50" />
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi!!!!😊😊😊 💻Welcome to my world🗺 of Computer Vision👀 and some Algorithms about Robotics🤖 and self driving🚗
-If you have any curiosities about my projects, contact me via albert31115@gmail.com or my ig account in profile </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> The University Student in Korea who are studying about Computer Vision about autonomous cars and robotics </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi!!!!😊😊😊 💻Welcome to my world🗺 of Computer Vision👀 and some Algorithms about Robotics🤖 and self driving🚗 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> The University Student in Korea who are studying about Computer Vision about autonomous cars and robotics contact me via albert31115@gmail.com or my ig account </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
