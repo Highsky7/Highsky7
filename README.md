@@ -19,9 +19,7 @@
     <div style="text-align: left;"> <a href=https://www.instagram.com/ja.ju.po/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/ja.ju.po/"> </a>
          <a href=https://www.notion.so/4-EV-178192f14cb080f98a8fc5c7910ab38b> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/4-EV-178192f14cb080f98a8fc5c7910ab38b"> </a>
          <a href=mailto:albert31115@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:albert31115@gmail.com"> </a>
-          </div>  <br> 
-    <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHighsky7&count_bg=%2308EAD0&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Highsky7&edge_flat=false"/></a>
-       </div> 
+          </div>  
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Highsky7&bg_color=60,cee58f,1adce0&title_color=000000&text_color=000000"
