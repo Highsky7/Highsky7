@@ -24,8 +24,10 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;">   <img src="https://github-readme-stats.vercel.app/api?username=Highsky7&show_icons=true&theme=radical" alt="GitHub Stats"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Highsky7&layout=compact&theme=radical" alt="Top Languages"/>
-    <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak"/> </div> 
+    <img src="https://streak-stats.demolab.com/?user=Highsky7&theme=dark" alt="GitHub Streak"/> </div> 
     </div>
-    </div>
-    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=green&label=visitors&size=large"/>
-    </div>
+<p align="center">
+  <a href="https://gprbc.vercel.app/p?id=Highsky7">
+    <img src="https://gprbc.vercel.app/p?id=Highsky7" alt="Visitor Count"/>
+  </a>
+</p>
