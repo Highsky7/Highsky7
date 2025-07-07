@@ -27,7 +27,5 @@
     <img src="https://streak-stats.demolab.com/?user=Highsky7&theme=dark" alt="GitHub Streak"/> </div> 
     </div>
 <p align="center">
-  <a href="https://gprbc.vercel.app/p?id=Highsky7">
-    <img src="https://gprbc.vercel.app/p?id=Highsky7" alt="Visitor Count"/>
-  </a>
+  <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FHighsky7?color=yellow&label=visitors&size=large" alt="visitors" /></a>
 </p>
