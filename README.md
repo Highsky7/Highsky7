@@ -27,5 +27,5 @@
     <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak"/> </div> 
     </div>
     </div>
-    [![visitors](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=green&label=visitors&size=large)](https://myhits.vercel.app)
+    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=green&label=visitors&size=large"/>
     </div>
