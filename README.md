@@ -26,6 +26,3 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Highsky7&layout=compact&theme=radical" alt="Top Languages"/>
     <img src="https://streak-stats.demolab.com/?user=Highsky7&theme=dark" alt="GitHub Streak"/> </div> 
     </div>
-<p align="center">
-  <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FHighsky7?color=yellow&label=visitors&size=large" alt="visitors" /></a>
-</p>
