@@ -18,7 +18,6 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://www.instagram.com/ja.ju.po/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/ja.ju.po/"> </a>
-         <a href=https://www.notion.so/4-EV-178192f14cb080f98a8fc5c7910ab38b> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/4-EV-178192f14cb080f98a8fc5c7910ab38b"> </a>
          <a href=mailto:albert31115@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:albert31115@gmail.com"> </a>
           </div>  
     </div>
