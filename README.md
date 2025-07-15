@@ -15,6 +15,15 @@
     </a>
     </div>
     <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 Project: CARLA_base_controller-2025.06.15~ 2025.07.11 </h2>
+    <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
+    Base controller made with pid for longitudinal control and purepursuit for lateral control with CARLA simulator. Click the image to see the repository!
+    </p>
+    <a href="https://github.com/Highsky7/CARLA_base_controller">
+    <img src="https://github.com/Highsky7/CARLA_base_controller/raw/main/carla_pure_pursuit_result.gif" alt="pure pursuit demo" width="400"/>
+    </a>
+    </div>
+    <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📝 Studying: Several methods about machine vision in autonomous vehicle-2025.01.15~2025.04.06 </h2>
   <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
   Several methods I tried during my comeptition about the field of Machine Vision in autonomous vehicle. Click the image to see the repository!
