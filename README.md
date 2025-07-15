@@ -16,7 +16,7 @@
     </a>
     </div>
     <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📝 Studying: Several methods about machine vision in autonomous vehicle </h2>
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📝 Studying: Several methods about machine vision in autonomous vehicle-2025.01~2025.04 </h2>
   <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
   Several methods I tried during my comeptition about the field of Machine Vision in autonomous vehicle. Click the image to see the repository!
   </p>
@@ -25,11 +25,11 @@
   </a>
 </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏆 Competition: COREA - Jang Yeongsil Invention Competition </h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏆 Competition: COREA - Jang Yeongsil Invention Competition-2024.10.27~2024.11.22 </h2>
     <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
     Application made my me to help students to easily ask requests or questions and to focus on lcectures easily with automatic subtitles by voice. Click the image to see the repository!
     </p>
-    <a href="https://github.com/Highsky7/COREA-_Jang_Yeongsil_Invention_and_Startup_Competition">
+    <a href="https://github.com/Highsky7/COREA-_Jang_Yeongsil_Invention_and_Startup_Competition()">
     <img src="https://github.com/Highsky7/COREA-_Jang_Yeongsil_Invention_and_Startup_Competition/raw/master/result/Before_request_student.png" alt="Jang Yeongsil Competition Application with several functions" width="400"/>
     </a>
     </div>
