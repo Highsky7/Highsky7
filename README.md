@@ -6,6 +6,15 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> The University Student in Korea who are studying about Computer Vision about autonomous cars and robotics! ✨✨✨If you like my repositories give some stars in there💫💫💫 </div> 
     </div>
     <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 Featured Project: YOLOTL </h2>
+    <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
+    YOLO-based Traffic Light Detection and Tracking Model. Click the image to see the repository!
+    </p>
+    <a href="https://github.com/Highsky7/YOLOTL">
+    <img src="https://media.githubusercontent.com/media/Highsky7/YOLOTL/main/YOLOTL1.gif" alt="YOLOTL Demo" width="600"/>
+  </a>
+    </div>
+    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=OpenCV&logoColor=white">
