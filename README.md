@@ -6,8 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> The University Student in Korea who are studying about Computer Vision about autonomous cars and robotics! ✨✨✨If you like my repositories give some stars in there💫💫💫 </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 Featured Project: YOLOTL
-        (The_4th_International_University_Student_EV_Autonomous_Driving_Competition-2025.07.11) </h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 Project+Competition: YOLOTL + The_4th_International_University_Student_EV_Autonomous_Driving_Competition-2025.12.31~ 2025.07.11 </h2>
     <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
     YOLO-based top-view lane segmentation and steering Model. Click the image to see the repository!
     </p>
