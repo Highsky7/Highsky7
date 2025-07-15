@@ -7,7 +7,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 Featured Project: YOLOTL
-        (The_4th_International_University_Student_EV_Autonomous_Driving_Competition(2025.07.11)) </h2>
+        (The_4th_International_University_Student_EV_Autonomous_Driving_Competition-2025.07.11) </h2>
     <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
     YOLO-based top-view lane segmentation and steering Model. Click the image to see the repository!
     </p>
@@ -20,7 +20,7 @@
     <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
     Awarded for innovative technology in the field of Computer Vision. Click the image to see the repository!
     </p>
-    <a href="https://github.com/Highsky7/COREA---Jang-Yeongsil-Invention-and-Startup-Competition">
+    <a href="https://github.com/Highsky7/COREA-_Jang_Yeongsil_Invention_and_Startup_Competition">
     <img src="https://github.com/Highsky7/COREA-_Jang_Yeongsil_Invention_and_Startup_Competition/raw/master/result/Before_request_student.png" alt="Jang Yeongsil Competition Award" width="400"/>
     </a>
     </div>
