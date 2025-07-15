@@ -6,23 +6,23 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> The University Student in Korea who are studying about Computer Vision about autonomous cars and robotics! ✨✨✨If you like my repositories give some stars in there💫💫💫 </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 Project+Competition: YOLOTL + The_4th_International_University_Student_EV_Autonomous_Driving_Competition-2025.12.31~ 2025.07.11 </h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 Project: YOLOTL-2025.06.15~ 2025.07.11 </h2>
     <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
-    YOLO-based top-view lane segmentation and steering Model. Click the image to see the repository!
+    YOLO-based top-view lane segmentation and steering control Model. Click the image to see the repository!
     </p>
     <a href="https://github.com/Highsky7/YOLOTL">
     <img src="https://media.githubusercontent.com/media/Highsky7/YOLOTL/main/YOLOTL1.gif" alt="YOLOTL Demo" width="400"/>
     </a>
     </div>
     <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📝 Studying: Several methods about machine vision in autonomous vehicle-2025.01~2025.04 </h2>
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📝 Studying: Several methods about machine vision in autonomous vehicle-2025.01.15~2025.04.06 </h2>
   <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
   Several methods I tried during my comeptition about the field of Machine Vision in autonomous vehicle. Click the image to see the repository!
   </p>
   <a href="https://github.com/Highsky7/My_project_work_ws">
     <img src="https://github.com/Highsky7/My_project_work_ws/raw/main/assets/pseudo_lidar.gif" alt="Machine vision studyings" width="400"/>
   </a>
-</div>
+  </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏆 Competition: COREA - Jang Yeongsil Invention Competition-2024.10.27~2024.11.22 </h2>
     <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
