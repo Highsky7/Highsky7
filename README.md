@@ -8,7 +8,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 Project: YOLOTL-2025.06.15~ 2025.07.11 </h2>
     <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
-    YOLO-based top-view lane segmentation and steering control Model. Click the image to see the repository!
+    YOLO-based custom trained top-view lane segmentation model and steering control algorithm. Click the image to see the repository!
     </p>
     <a href="https://github.com/Highsky7/YOLOTL">
     <img src="https://media.githubusercontent.com/media/Highsky7/YOLOTL/main/YOLOTL1.gif" alt="YOLOTL Demo" width="400"/>
