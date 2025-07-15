@@ -8,7 +8,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 Featured Project: YOLOTL </h2>
     <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
-    YOLO-based Traffic Light Detection and Tracking Model. Click the image to see the repository!
+    YOLO-based Traffic Light Detection and Tracking Model. Which I made and used in The_4th_International_University_Student_EV_Autonomous_Driving_Competition(2025.07.11). Click the image to see the repository!
     </p>
     <a href="https://github.com/Highsky7/YOLOTL">
     <img src="https://media.githubusercontent.com/media/Highsky7/YOLOTL/main/YOLOTL1.gif" alt="YOLOTL Demo" width="600"/>
