@@ -12,8 +12,17 @@
     YOLO-based top-view lane segmentation and steering Model. Click the image to see the repository!
     </p>
     <a href="https://github.com/Highsky7/YOLOTL">
-    <img src="https://media.githubusercontent.com/media/Highsky7/YOLOTL/main/YOLOTL1.gif" alt="YOLOTL Demo" width="600"/>
+    <img src="https://media.githubusercontent.com/media/Highsky7/YOLOTL/main/YOLOTL1.gif" alt="YOLOTL Demo" width="400"/>
   </a>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏆 Award: COREA - Jang Yeongsil Invention Competition </h2>
+    <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
+    Awarded for innovative technology in the field of Computer Vision. Click the image to see the repository!
+    </p>
+    <a href="https://github.com/Highsky7/COREA---Jang-Yeongsil-Invention-and-Startup-Competition">
+    <img src="https://github.com/Highsky7/COREA-_Jang_Yeongsil_Invention_and_Startup_Competition/raw/master/result/Before_request_student.png" alt="Jang Yeongsil Competition Award" width="400"/>
+    </a>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
