@@ -13,15 +13,24 @@
     </p>
     <a href="https://github.com/Highsky7/YOLOTL">
     <img src="https://media.githubusercontent.com/media/Highsky7/YOLOTL/main/YOLOTL1.gif" alt="YOLOTL Demo" width="400"/>
-  </a>
+    </a>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏆 Award: COREA - Jang Yeongsil Invention Competition </h2>
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📝 Studying: Several methods about machine vision in autonomous vehicle </h2>
+  <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
+  Several methods I tried during my comeptition about the field of Machine Vision in autonomous vehicle. Click the image to see the repository!
+  </p>
+  <a href="https://github.com/Highsky7/My_project_work_ws">
+    <img src="https://github.com/Highsky7/My_project_work_ws/raw/main/assets/pseudo_lidar.gif" alt="Machine vision studyings" width="400"/>
+  </a>
+</div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏆 Competition: COREA - Jang Yeongsil Invention Competition </h2>
     <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
-    Awarded for innovative technology in the field of Computer Vision. Click the image to see the repository!
+    Application made my me to help students to easily ask requests or questions and to focus on lcectures easily with automatic subtitles by voice. Click the image to see the repository!
     </p>
     <a href="https://github.com/Highsky7/COREA-_Jang_Yeongsil_Invention_and_Startup_Competition">
-    <img src="https://github.com/Highsky7/COREA-_Jang_Yeongsil_Invention_and_Startup_Competition/raw/master/result/Before_request_student.png" alt="Jang Yeongsil Competition Award" width="400"/>
+    <img src="https://github.com/Highsky7/COREA-_Jang_Yeongsil_Invention_and_Startup_Competition/raw/master/result/Before_request_student.png" alt="Jang Yeongsil Competition Application with several functions" width="400"/>
     </a>
     </div>
     <div style="text-align: left;">
