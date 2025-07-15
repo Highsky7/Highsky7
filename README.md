@@ -28,7 +28,7 @@
     <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
     Application made my me to help students to easily ask requests or questions and to focus on lcectures easily with automatic subtitles by voice. Click the image to see the repository!
     </p>
-    <a href="https://github.com/Highsky7/COREA-_Jang_Yeongsil_Invention_and_Startup_Competition()">
+    <a href="https://github.com/Highsky7/COREA-_Jang_Yeongsil_Invention_and_Startup_Competition">
     <img src="https://github.com/Highsky7/COREA-_Jang_Yeongsil_Invention_and_Startup_Competition/raw/master/result/Before_request_student.png" alt="Jang Yeongsil Competition Application with several functions" width="400"/>
     </a>
     </div>
