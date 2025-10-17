@@ -11,7 +11,7 @@
     A multi-purpose autonomous robot platform using ROS2. It features seasonal vision missions, multi-terrain driving, and object tracking capabilities, and operates in conjunction with NVIDIA Jetson and Arduino. Click the image to see the repository!
     </p>
     <a href="https://github.com/Highsky7/DolbotX">
-    <img src="https://i.ytimg.com/vi/69BXtWKU-2o/hqdefault.jpg" alt="DolbotX Demo" width="400"/>
+    <img src="https://github.com/Highsky7/DolbotX/raw/main/competition_result.gif" alt="DolbotX Demo" width="400"/>
     </a>
     </div>
     <div style="text-align: left;">
