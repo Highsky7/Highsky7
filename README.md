@@ -6,6 +6,15 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> The University Student in Korea who are studying about Vision and Physical AI systems about robotics! ✨✨✨If you like my repositories give some stars in there💫💫💫 </div> 
     </div>
     <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 Project: DolbotX-2025.07.14~2025.09.14 </h2>
+    <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
+    A multi-purpose autonomous robot platform using ROS2. It features seasonal vision missions, multi-terrain driving, and object tracking capabilities, and operates in conjunction with NVIDIA Jetson and Arduino. Click the image to see the repository!
+    </p>
+    <a href="https://github.com/Highsky7/DolbotX">
+    <img src="https://github.com/Highsky7/DolbotX/raw/main/competition_result.gif" alt="DolbotX Demo" width="400"/>
+    </a>
+    </div>
+    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 Project: YOLOTL-2025.06.15~ 2025.07.11 </h2>
     <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
     YOLO-based custom trained top-view lane segmentation model and steering control algorithm. Click the image to see the repository!
