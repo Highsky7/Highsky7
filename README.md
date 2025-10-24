@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=slice&color=0:3275fb,100:127337&height=120&text=Highsky7's%20Space&animation=&fontColor=bfa23b&fontSize=50" />
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi!!!!😊😊😊 💻Welcome to my world🗺 of Computer Vision👀 and some Algorithms about Robotics🤖 and self driving🚗 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> The University Student in Korea who are studying about Vision and Physical AI systems about robotics! ✨✨✨If you like some of my repositories give some stars in there💫💫💫 </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi!!!!😊😊😊 💻Welcome to my world🗺 of Vision Algorithms about Robotics🤖 and self driving🚗 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> The Undergraduate Senior Student in Korea studying about Vision and VLA(Vision, Language & Action)Models about robotics! ✨✨✨If you like some of my repositories put some stars in there💫💫💫 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 Project & 🏆 Competition: DolbotX-2025.07.14~2025.09.14 </h2>
@@ -24,7 +24,7 @@
     </a>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 Project: CARLA_base_controller-2025.04.20~ 2025.06.09 </h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 🎓Graduate Project: CARLA_base_controller-2025.04.20~ 2025.06.09 </h2>
     <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
     Base controller made with pid for longitudinal control and purepursuit for lateral control with CARLA simulator. Click the image to see the repository!
     </p>
