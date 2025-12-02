@@ -32,7 +32,7 @@ YOLO-based custom trained top-view lane segmentation model and steering control 
 </a>
 </div>
 <div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 🎓Graduate Project: CARLA_base_controller-2025.04.20~ 2025.06.09 </h2>
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓Graduate Project: CARLA_base_controller-2025.04.20~ 2025.06.09 </h2>
 <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
 Base controller made with pid for longitudinal control and purepursuit for lateral control with CARLA simulator. Click the image to see the repository!
 </p>
