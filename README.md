@@ -75,12 +75,6 @@ Application made by me to help students to easily ask requests or questions and 
 
 <div align="center">
 
-## **📊 My GitHub Stats**
-
-</div>
-
-<div align="center">
-
 ## **📬 Connect with Me**
 
 <p>
