@@ -77,10 +77,6 @@ Application made by me to help students to easily ask requests or questions and 
 
 ## **📊 My GitHub Stats**
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Highsky7&layout=compact&theme=radical" alt="Highsky7's Top Languages"/>
-</p>
-
 </div>
 
 <div align="center">
